@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchparse",
+        "uuid": 1275440,
+        "checksum": "3ke3re"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
